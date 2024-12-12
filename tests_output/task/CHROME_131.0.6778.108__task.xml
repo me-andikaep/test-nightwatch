@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="task.task"
+    errors="0" failures="1" hostname="" id="" package="task" skipped="0"
+    tests="1" time="18.44" timestamp="">
+  
+    <testcase name="masuk ke halaman login" classname="task.task" time="5.218" assertions="1">  <failure message="Timed out while waiting for element &lt;.main-wrapper&gt; to be present for 5000 milliseconds. - expected &#34;visible&#34; but got: &#34;not found&#34; (5159ms)">    at DescribeInstance.&lt;anonymous&gt; (H:\kerja\mileapp\nightwatch js\mileapp\test\task\task.js:21:8)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

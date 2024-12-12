@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="6">
+
+  <testsuite name="login.login"
+    errors="0" failures="0" hostname="" id="" package="login" skipped="0"
+    tests="6" time="38.56" timestamp="">
+  
+    <testcase name="masuk ke halaman login" classname="login.login" time="0.4680" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="check komponen dalam login" classname="login.login" time="0.5520" assertions="13">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="klik logo mileapp redirect ke landing page" classname="login.login" time="1.452" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="klik forget password redirect ke forget password" classname="login.login" time="0.6510" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="klik signup redirect ke signup" classname="login.login" time="0.6680" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="on loagin" classname="login.login" time="10.07" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

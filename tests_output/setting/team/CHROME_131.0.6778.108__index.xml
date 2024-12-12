@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="2">
+
+  <testsuite name="setting.team.index"
+    errors="0" failures="0" hostname="" id="" package="team" skipped="0"
+    tests="2" time="27.02" timestamp="">
+  
+    <testcase name="masuk ke halaman team" classname="setting.team.index" time="5.309" assertions="6">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="buat task baru" classname="setting.team.index" time="4.363" assertions="10">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

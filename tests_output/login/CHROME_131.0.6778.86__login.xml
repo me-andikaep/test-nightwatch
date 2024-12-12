@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="3">
+
+  <testsuite name="login.login"
+    errors="0" failures="1" hostname="" id="" package="login" skipped="0"
+    tests="3" time="31.20" timestamp="">
+  
+    <testcase name="masuk ke halaman login" classname="login.login" time="0.1480" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="check komponen dalam login" classname="login.login" time="0.4600" assertions="14">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="on loagin" classname="login.login" time="11.04" assertions="1">  <failure message="Redirected page is visible - expected &#34;visible&#34; but got: &#34;not found&#34; (10464ms)">    at DescribeInstance.&lt;anonymous&gt; (H:\kerja\mileapp\nightwatch js\mileapp\test\login\login.js:83:8)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>
